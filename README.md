@@ -3,11 +3,11 @@
 I'm a sophomore in high school who loves to code, watch baseball, and play strategy games.  
 Currently, I'm focused on frontend development, with experience in HTML, CSS, JavaScript, Java, and Python—and I'm expanding my backend skills!
 
-## 🚀 Favorite Project
+## 🚀 Founder & CEO of Bay Code
 ```sh 
 https://baycode.netlify.app
 ```
-  A personal project where I sharpened my web development skills and shared resources with others.
+  Bay Code is a student-founded and student-led organization based in the Bay Area that empowers the next generation of coders through inclusive, logic-focused programming events. Our mission is to make coding accessible, collaborative, and genuinely fun, especially for students with little to no prior experience. Want to learn more about leadership positions/events? Please send me a DM to my Linkedin. Follow us on Instagram: @baycodeofficial
 
 ## 🎓 Certifications
 - Stanford Online: Supervised Machine Learning
@@ -15,7 +15,7 @@ https://baycode.netlify.app
 
 ## 💻 Skills
 - **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Python, Java (learning more every day!)
+- **Backend:** Python, Java
 - **Other:** Machine Learning (certified), Problem Solving
 
 ## 🌐 Connect with Me
