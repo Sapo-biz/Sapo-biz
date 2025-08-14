@@ -7,7 +7,12 @@ Currently, I'm focused on frontend development, with experience in HTML, CSS, Ja
 ```sh 
 https://baycode.netlify.app
 ```
-  Bay Code is a student-founded and student-led organization based in the Bay Area that empowers the next generation of coders through inclusive, logic-focused programming events. Our mission is to make coding accessible, collaborative, and genuinely fun, especially for students with little to no prior experience. Want to learn more about leadership positions/events? Please send me a DM to my Linkedin. Follow us on Instagram: @baycodeofficial
+  Bay Code is a student-founded and student-led organization based in the Bay Area that empowers the next generation of coders through inclusive, logic-focused programming events. Our mission is to make coding accessible, collaborative, and genuinely fun, especially for students with little to no prior experience. Want to learn more about open leadership positions/events? Please send me a DM to my Linkedin. Follow us on Instagram: @baycodeofficial
+
+Signup form: 
+```sh
+tinyurl.com/bc-officer
+```
 
 ## 🎓 Certifications
 - Stanford Online: Supervised Machine Learning
