@@ -27,9 +27,4 @@ tinyurl.com/bc-officer
 - LinkedIn: [Jason Ho](https://www.linkedin.com/in/jason-ho-419042370/)
 - Instagram: [@jasonontop615](https://www.instagram.com/jasonontop615/)
 
-## ⚾ Fun Fact
-I'm always up for a coding challenge and love combining tech with my interests in baseball and strategy games!
-
----
-
 Thanks for stopping by! Feel free to check out my projects or reach out if you want to connect.
