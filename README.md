@@ -13,6 +13,12 @@ Signup form:
 ```sh
 tinyurl.com/bc-officer
 ```
+## Cofounder of ML Club at MV:
+```sh
+https://machinelearningclub.netlify.app/
+```
+Interest forms are on my website. They are not anywhere else. 
+Discord: https://tinyurl.com/joinmlclub
 
 ## Certifications
 - Stanford Online: Supervised Machine Learning
