@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Jason Ho
 
-I'm a sophomore in high school who loves to code, watch baseball, and play strategy games.  
-Currently, I'm focused on frontend development, with experience in HTML, CSS, JavaScript, Java, and Python—and I'm expanding my backend skills!
+Sophomore in high school, Bay Area Entrepreneur.
+Currently, I'm focused on frontend development, with experience in HTML, CSS, JavaScript, Java, and Python.
 
-## 🚀 Founder & CEO of Bay Code
+## Founder & CEO of Bay Code
 ```sh 
 https://baycode.netlify.app
 ```
@@ -14,16 +14,16 @@ Signup form:
 tinyurl.com/bc-officer
 ```
 
-## 🎓 Certifications
+## Certifications
 - Stanford Online: Supervised Machine Learning
 - DeepLearning.AI: Supervised Machine Learning
 
-## 💻 Skills
+## Skills
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Python, Java
 - **Other:** Machine Learning (certified), Problem Solving
 
-## 🌐 Connect with Me
+## Connect with Me
 - LinkedIn: [Jason Ho](https://www.linkedin.com/in/jason-ho-419042370/)
 - Instagram: [@jasonontop615](https://www.instagram.com/jasonontop615/)
 
