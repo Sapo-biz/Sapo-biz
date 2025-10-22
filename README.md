@@ -17,7 +17,7 @@ tinyurl.com/bc-officer
 ```sh
 https://machinelearningclub.netlify.app/
 ```
-Interest forms are on my website. They are not anywhere else. 
+Interest forms are found on my website. They are not anywhere else. 
 Discord: https://tinyurl.com/joinmlclub
 
 ## Certifications
@@ -33,4 +33,4 @@ Discord: https://tinyurl.com/joinmlclub
 - LinkedIn: [Jason Ho](https://www.linkedin.com/in/jason-ho-419042370/)
 - Instagram: [@jasonontop615](https://www.instagram.com/jasonontop615/)
 
-Thanks for stopping by! Feel free to check out my projects or reach out if you want to connect.
+Thanks for stopping by. Feel free to check out my projects or reach out if you want to connect.
