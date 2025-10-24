@@ -20,6 +20,8 @@ https://machinelearningclub.netlify.app/
 Interest forms are found on my website. They are not anywhere else. 
 Discord: https://tinyurl.com/joinmlclub
 
+Website Credits: Anay Goyal, Aarav Goyal.
+
 ## Certifications
 - Stanford Online: Supervised Machine Learning
 - DeepLearning.AI: Supervised Machine Learning
