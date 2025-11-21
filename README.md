@@ -1,7 +1,10 @@
-# 👋 Hi, I'm Jason Ho
+# 👋 Hi, I'm Jason He
 
 Sophomore in high school, Bay Area Entrepreneur.
-Currently, I'm focused on frontend development, with experience in HTML, CSS, JavaScript, Java, and Python.
+Currently, I'm focused on frontend development.
+
+Developing UtilFlow, an android app focusing on image extraction OCR as well as fast-paced PDF extraction.
+Launching December 1, 2025.
 
 ## Founder & CEO of Bay Code
 ```sh 
