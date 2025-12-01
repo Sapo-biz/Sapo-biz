@@ -4,7 +4,7 @@ Sophomore in high school, Bay Area Entrepreneur.
 Currently, I'm focused on frontend development.
 
 Developing UtilFlow, an android app focusing on image extraction OCR as well as fast-paced PDF extraction.
-Launching December 1, 2025.
+Launching December 10, 2025.
 
 ## UtilFlow
 
