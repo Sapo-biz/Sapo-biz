@@ -14,7 +14,7 @@ utilflowofficial.com
 ```
 
 Google Play link 
-(coming soon)
+https://play.google.com/store/apps/details?id=com.utilflow.app&utm_source=na_Med
 
 ## Founder & CEO of Bay Code
 ```sh 
