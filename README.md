@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jason He
+# Hey, I'm Jason He
 
 Sophomore in high school, Bay Area Entrepreneur.
 Currently, I'm focused on frontend development.
