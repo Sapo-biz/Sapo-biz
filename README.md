@@ -1,10 +1,12 @@
 # Hey, I'm Jason He
 
 Sophomore in high school, Bay Area Entrepreneur.
-Currently, I'm focused on frontend development.
 
-Developing UtilFlow, an android app focusing on image extraction OCR as well as fast-paced PDF extraction.
-Launching December 10, 2025.
+Currently, I'm socializing studying @StudyScan. 
+I'm currently hiring! 
+
+Apply here:
+https://forms.gle/2n6S1367ULHDKWXp9
 
 ## UtilFlow
 
@@ -36,13 +38,10 @@ Discord: https://tinyurl.com/joinmlclub
 Website Credits: Anay Goyal, Aarav Goyal.
 
 ## Certifications
+- Meta: Android Mobile App Development
 - Stanford Online: Supervised Machine Learning
 - DeepLearning.AI: Supervised Machine Learning
 
-## Skills
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Python, Java
-- **Other:** Machine Learning (certified), Problem Solving
 
 ## Connect with Me
 - LinkedIn: [Jason He](https://www.linkedin.com/in/jason-ho-419042370/)
