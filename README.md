@@ -1,13 +1,8 @@
 # Hey, I'm Jason He
 
 I'm a Bay Area Entrepreneur.
-I'm 15 and a sophomore in high school.
+I'm a junior in high school.
 
-Currently, I'm socializing studying @StudyScan. 
-I'm currently hiring! 
-
-Apply here:
-https://forms.gle/2n6S1367ULHDKWXp9
 
 ## UtilFlow
 
